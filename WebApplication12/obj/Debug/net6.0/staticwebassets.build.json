@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "VoUzLrIFZKd2p7RhpTQB+pNCdv5/aHNKWW/lwLlJ/ok=",
+  "Source": "WebApplication12",
+  "BasePath": "_content/WebApplication12",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApplication12\\wwwroot",
+      "Source": "WebApplication12",
+      "ContentRoot": "C:\\Users\\Lirirum\\source\\repos\\WebApplication12\\WebApplication12\\wwwroot\\",
+      "BasePath": "_content/WebApplication12",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Lirirum\\source\\repos\\WebApplication12\\WebApplication12\\wwwroot\\css\\style.css",
+      "SourceId": "WebApplication12",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lirirum\\source\\repos\\WebApplication12\\WebApplication12\\wwwroot\\",
+      "BasePath": "_content/WebApplication12",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\Lirirum\\source\\repos\\WebApplication12\\WebApplication12\\wwwroot\\img\\sucsess.png",
+      "SourceId": "WebApplication12",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lirirum\\source\\repos\\WebApplication12\\WebApplication12\\wwwroot\\",
+      "BasePath": "_content/WebApplication12",
+      "RelativePath": "img/sucsess.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\sucsess.png"
+    }
+  ]
+}
